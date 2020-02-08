@@ -1,0 +1,14 @@
+{
+    "name": "Ayrs",
+    "slug": "ayrs",
+    "author": {
+        "name": "meain",
+        "link": "https://github.com/meain/startpage"
+    },
+    "preview": "preview.png",
+    "features": [
+        "clock",
+        "links",
+        "rss feed"
+    ]
+}

@@ -1,0 +1,83 @@
+{
+  "shortcuts": [
+    {
+      "name": "github",
+      "url": "github.com"
+    },
+    {
+      "name": "reddit",
+      "url": "www.reddit.com"
+    },
+    {
+      "name": "hackernews",
+      "url": "news.ycombinator.com"
+    },
+    {
+      "name": "dev",
+      "url": "dev.to"
+    }
+  ],
+  "feeds": [
+    {
+      "url": "https://overreacted.io/rss.xml",
+      "name": "Overreacted"
+    },
+    {
+      "url": "https://jameshfisher.com/feed.xml",
+      "name": "James Fisher"
+    },
+    {
+      "url": "https://jdhao.github.io/index.xml",
+      "name": "Jdhao's Blog"
+    },
+    {
+      "url": "https://w0rp.com/blog/latest/feed/",
+      "name": "w0rp"
+    },
+    {
+      "url": "https://noahfrederick.com/feed.xml",
+      "name": "Noah Fredrick"
+    },
+    {
+      "url": "https://eli.thegreenplace.net/feeds/all.atom.xml",
+      "name": "The Green Place"
+    },
+    {
+      "url": "https://blog.trailofbits.com/feed/",
+      "name": "Trail of Bits"
+    },
+    {
+      "url": "https://www.brianstorti.com/feed/atom.xml",
+      "name": "Brian Storti"
+    },
+    {
+      "url": "https://begriffs.com/atom.xml",
+      "name": "Begriffs"
+    },
+    {
+      "url": "http://www.phpied.com/feed/",
+      "name": "Phiped"
+    },
+    {
+      "url": "http://feeds.feedburner.com/codinghorror?format=xml",
+      "name": "Coding Horror"
+    },
+    {
+      "url": "https://lukesmith.xyz/rss.xml",
+      "name": "Luke Smith"
+    },
+    {
+      "url": "https://addy-dclxvi.github.io/index.xml",
+      "name": "Andy's Blog"
+    },
+    {
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA",
+      "name": "Luke Smith"
+    },
+    {
+      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmtyQOKKmrMVaKuRXz02jbQ",
+      "name": "Sebastian Lague"
+    }
+  ],
+  "maxFeedNumber": 6
+}

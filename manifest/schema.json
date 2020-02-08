@@ -1,0 +1,54 @@
+{
+  "required": [
+    "maxFeedNumber"
+  ],
+  "properties": {
+    "maxFeedNumber": {
+      "type": "number",
+      "title": "Max Feed Number",
+      "description": "Number of RSS items you want loaded"
+    },
+    "shortcuts": {
+      "type": "array",
+      "title": "Shortcuts",
+      "description": "Links to websites",
+      "items": {
+        "type": "object",
+        "title": "Shortcut",
+        "properties": {
+          "name": {
+            "type": "string",
+            "title": "Name",
+            "description": "Name of the website you're linking to"
+          },
+          "url": {
+            "type": "string",
+            "title": "URL",
+            "description": "Link to the website, without 'http://'"
+          }
+        }
+      }
+    },
+    "feeds": {
+      "type": "array",
+      "title": "Feeds",
+      "description": "XML RSS feeds you're interested in",
+      "items": {
+        "type": "object",
+        "title": "Feed",
+        "properties": {
+          "name": {
+            "type": "string",
+            "title": "Name",
+            "description": "Name of the website you're linking to"
+          },
+          "url": {
+            "type": "string",
+            "title": "URL",
+            "description": "Link to the RSS feed"
+          }
+        }
+      }
+    }
+  }
+}
